@@ -1,5 +1,5 @@
 # Resume Parser AI
-
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 ## Introduction
 This project introduces an advanced machine learning-enhanced tool for parsing resumes and categorizing candidates using XGBoost, Support Vector Machine (SVM), and K-Means clustering algorithms. The tool is designed to streamline the candidate selection process by automating the extraction of information from resumes and intelligently analyzing the data to identify the most qualified individuals.
 
