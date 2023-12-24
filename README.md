@@ -4,7 +4,7 @@
 This project introduces an advanced machine learning-enhanced tool for parsing resumes and categorizing candidates using XGBoost, Support Vector Machine (SVM), and K-Means clustering algorithms. The tool is designed to streamline the candidate selection process by automating the extraction of information from resumes and intelligently analyzing the data to identify the most qualified individuals.
 
 ## Project Files
-resume_parser (1).py: The main script for extracting data from resumes, capable of identifying and processing various sections such as personal information, education, experience, and skills. The XGBboost and SVM was used for predictive modeling and K_means clustering candidates based on extracted features.
+resume_parser (1).py: The main script for extracting data from resumes, capable of identifying and processing various sections such as personal information, education, experience, and skills. The XGBboost and SVM were used for predictive modeling and K_means clustering candidates based on extracted features.
 
 ## Machine Learning Models and Analysis
 - XGBoost: For predicting candidate suitability and ranking based on various features extracted from the resume.
@@ -23,4 +23,4 @@ resume_parser (1).py: The main script for extracting data from resumes, capable 
 5. Analyze the output for recruitment insights, including clusters and classifications of candidates.
 
 ## Conclusion
-The integration of regex-based parsing, data manipulation with pandas, and sophisticated machine learning models in this project offers a comprehensive approach to modern recruitment challenges. It not only automates the extraction of information from resumes but also utilizes advanced analytics to enhance the selection process, thereby facilitating the recruitment of top talent in an efficient and effective manner.
+This project's integration of regex-based parsing, data manipulation with pandas, and sophisticated machine-learning models offers a comprehensive approach to modern recruitment challenges. It not only automates the extraction of information from resumes but also utilizes advanced analytics to enhance the selection process, thereby facilitating the recruitment of top talent in an efficient and effective manner.
